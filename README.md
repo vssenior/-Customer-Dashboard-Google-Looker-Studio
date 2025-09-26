@@ -10,7 +10,7 @@ This repository showcases a Customer Analytics Dashboard created using Google Lo
   
 ##  Dashboard Insights
 
-### ✅ High-Level Metrics:
+###  High-Level Metrics:
 
 * **Total Customers:** `793`
 * **Total Sales:** `$2M`
@@ -30,7 +30,7 @@ This repository showcases a Customer Analytics Dashboard created using Google Lo
 | **Customer by Category**      | Pie chart displaying category distribution (Technology 36.4%)          |
 | **Filters**                   | Region, Product Name, Segment                                          |
 
-## 🎯 Use Case
+##  Use Case
 
 This dashboard is useful for:
 
@@ -45,7 +45,7 @@ Feel free to fork the repo and build on it. Suggestions and improvements are wel
 
 ---
 
-## 📬 Contact
+##  Contact
 
 For any questions, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/collins-o-ab84b024a/) or raise an issue in this repo.
 
